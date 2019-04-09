@@ -1,0 +1,11 @@
+/Users/filipesousa/Desktop/LambdaX/LambdaX.Console/obj/Debug/netcoreapp2.2/LambdaX.Console.csprojAssemblyReference.cache
+/Users/filipesousa/Desktop/LambdaX/LambdaX.Console/obj/Debug/netcoreapp2.2/LambdaX.Console.csproj.CoreCompileInputs.cache
+/Users/filipesousa/Desktop/LambdaX/LambdaX.Console/obj/Debug/netcoreapp2.2/LambdaX.Console.AssemblyInfoInputs.cache
+/Users/filipesousa/Desktop/LambdaX/LambdaX.Console/obj/Debug/netcoreapp2.2/LambdaX.Console.AssemblyInfo.cs
+/Users/filipesousa/Desktop/LambdaX/LambdaX.Console/bin/Debug/netcoreapp2.2/LambdaX.Console.deps.json
+/Users/filipesousa/Desktop/LambdaX/LambdaX.Console/bin/Debug/netcoreapp2.2/LambdaX.Console.runtimeconfig.json
+/Users/filipesousa/Desktop/LambdaX/LambdaX.Console/bin/Debug/netcoreapp2.2/LambdaX.Console.runtimeconfig.dev.json
+/Users/filipesousa/Desktop/LambdaX/LambdaX.Console/bin/Debug/netcoreapp2.2/LambdaX.Console.dll
+/Users/filipesousa/Desktop/LambdaX/LambdaX.Console/bin/Debug/netcoreapp2.2/LambdaX.Console.pdb
+/Users/filipesousa/Desktop/LambdaX/LambdaX.Console/obj/Debug/netcoreapp2.2/LambdaX.Console.dll
+/Users/filipesousa/Desktop/LambdaX/LambdaX.Console/obj/Debug/netcoreapp2.2/LambdaX.Console.pdb

@@ -1,0 +1,17 @@
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/bin/Debug/netcoreapp2.2/LambdaX.tests.deps.json
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/bin/Debug/netcoreapp2.2/LambdaX.tests.dll
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/bin/Debug/netcoreapp2.2/LambdaX.tests.pdb
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.csprojAssemblyReference.cache
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.csproj.CoreCompileInputs.cache
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.AssemblyInfoInputs.cache
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.AssemblyInfo.cs
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.csproj.CopyComplete
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.dll
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.pdb
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/bin/Debug/netcoreapp2.2/LambdaX.tests.runtimeconfig.json
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/bin/Debug/netcoreapp2.2/LambdaX.tests.runtimeconfig.dev.json
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/bin/Debug/netcoreapp2.2/LambdaX.Exercise1.dll
+/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/bin/Debug/netcoreapp2.2/LambdaX.Exercise1.pdb
