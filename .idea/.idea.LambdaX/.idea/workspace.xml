@@ -2,58 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87c8c108-c271-49ca-8ef3-16aba617374e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LambdaX/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LambdaX/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise1/bin/Debug/netcoreapp2.2/LambdaX.Exercise1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise1/bin/Debug/netcoreapp2.2/LambdaX.Exercise1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise1/bin/Debug/netcoreapp2.2/LambdaX.Exercise1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise1/bin/Debug/netcoreapp2.2/LambdaX.Exercise1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise1/obj/Debug/netcoreapp2.2/LambdaX.Exercise1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise1/obj/Debug/netcoreapp2.2/LambdaX.Exercise1.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise1/obj/Debug/netcoreapp2.2/LambdaX.Exercise1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise1/obj/Debug/netcoreapp2.2/LambdaX.Exercise1.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise1/obj/Debug/netcoreapp2.2/LambdaX.Exercise1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise1/obj/Debug/netcoreapp2.2/LambdaX.Exercise1.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise1/obj/Debug/netcoreapp2.2/LambdaX.Exercise1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise1/obj/Debug/netcoreapp2.2/LambdaX.Exercise1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise1/obj/Debug/netcoreapp2.2/LambdaX.Exercise1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise1/obj/Debug/netcoreapp2.2/LambdaX.Exercise1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise1/obj/Debug/netcoreapp2.2/project.razor.json" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise1/obj/Debug/netcoreapp2.2/project.razor.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise1/obj/LambdaX.Exercise1.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise1/obj/LambdaX.Exercise1.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise1/obj/LambdaX.Exercise1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise1/obj/LambdaX.Exercise1.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise1/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise1/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise2/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise2/bin/Debug/netcoreapp2.2/LambdaX.Exercise2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise2/bin/Debug/netcoreapp2.2/LambdaX.Exercise2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise2/bin/Debug/netcoreapp2.2/LambdaX.Exercise2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise2/bin/Debug/netcoreapp2.2/LambdaX.Exercise2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise2/obj/Debug/netcoreapp2.2/LambdaX.Exercise2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise2/obj/Debug/netcoreapp2.2/LambdaX.Exercise2.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise2/obj/Debug/netcoreapp2.2/LambdaX.Exercise2.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise2/obj/Debug/netcoreapp2.2/LambdaX.Exercise2.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise2/obj/Debug/netcoreapp2.2/LambdaX.Exercise2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise2/obj/Debug/netcoreapp2.2/LambdaX.Exercise2.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise2/obj/Debug/netcoreapp2.2/LambdaX.Exercise2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise2/obj/Debug/netcoreapp2.2/LambdaX.Exercise2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise2/obj/Debug/netcoreapp2.2/LambdaX.Exercise2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise2/obj/Debug/netcoreapp2.2/LambdaX.Exercise2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise2/obj/LambdaX.Exercise2.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise2/obj/LambdaX.Exercise2.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise2/obj/LambdaX.Exercise2.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise2/obj/LambdaX.Exercise2.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise2/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise2/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise2/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise2/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LambdaX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LambdaX/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise3/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LambdaX.Exercise3/bin/Debug/netcoreapp2.2/LambdaX.Exercise3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise3/bin/Debug/netcoreapp2.2/LambdaX.Exercise3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LambdaX.Exercise3/bin/Debug/netcoreapp2.2/LambdaX.Exercise3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise3/bin/Debug/netcoreapp2.2/LambdaX.Exercise3.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise3/obj/LambdaX.Exercise3.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise3/obj/LambdaX.Exercise3.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise3/obj/LambdaX.Exercise3.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise3/obj/LambdaX.Exercise3.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise3/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise3/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.Exercise3/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.Exercise3/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/bin/Debug/netcoreapp2.2/LambdaX.Exercise1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/bin/Debug/netcoreapp2.2/LambdaX.Exercise1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/bin/Debug/netcoreapp2.2/LambdaX.Exercise1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/bin/Debug/netcoreapp2.2/LambdaX.Exercise1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/bin/Debug/netcoreapp2.2/LambdaX.tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/bin/Debug/netcoreapp2.2/LambdaX.tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/bin/Debug/netcoreapp2.2/LambdaX.tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/bin/Debug/netcoreapp2.2/LambdaX.tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/LambdaX.tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/project.razor.json" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/obj/Debug/netcoreapp2.2/project.razor.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/obj/LambdaX.tests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/obj/LambdaX.tests.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/obj/LambdaX.tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/obj/LambdaX.tests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaX.tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaX.tests/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,18 +18,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LambdaX.Exercise3/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+              <folding>
+                <marker date="1555107782650" expanded="false" signature="6:67" ph="..." />
+                <marker date="1555107782650" expanded="true" signature="88:625" ph="{...}" />
+                <marker date="1555107782650" expanded="true" signature="108:623" ph="{...}" />
+                <marker date="1555107782650" expanded="true" signature="154:418" ph="{...}" />
+                <marker date="1555107782650" expanded="true" signature="321:405" ph="{...}" />
+                <marker date="1555107782650" expanded="true" signature="480:617" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LambdaX.Exercise2/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LambdaX.Exercise2/LinkedListNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/44E183AD-15AE-4AD5-A0BF-3739941FB803/7e/3517b9aa/Parallel.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LambdaX.Exercise3/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LambdaX.tests/CoinTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LambdaX.Exercise1/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LambdaX.Exercise1/Coin.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LambdaX.tests/CoinTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LambdaX.Exercise2/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -87,8 +62,8 @@
         <option value="$PROJECT_DIR$/LambdaX.Exercise2/LinkedListNode.cs" />
         <option value="$PROJECT_DIR$/LambdaX.Exercise1/Program.cs" />
         <option value="$PROJECT_DIR$/LambdaX.Exercise1/Coin.cs" />
-        <option value="$PROJECT_DIR$/LambdaX.Exercise3/Program.cs" />
         <option value="$PROJECT_DIR$/LambdaX.Exercise2/Program.cs" />
+        <option value="$PROJECT_DIR$/LambdaX.Exercise3/Program.cs" />
       </list>
     </option>
   </component>
@@ -120,6 +95,12 @@
               <item name="src" type="24d0babc:SolutionExplorerModelNode" />
               <item name="LambdaX.Exercise2" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="LambdaX" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LambdaX.Exercise3" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -148,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.Default">
+  <component name="RunManager" selected=".NET Project.src\LambdaX.Exercise3">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/LambdaX.Console/bin/Debug/netcoreapp2.2/LambdaX.Console.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -211,12 +192,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554761040028</updated>
       <workItem from="1554761042268" duration="7570000" />
-      <workItem from="1555102138239" duration="228000" />
+      <workItem from="1555102138239" duration="2644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7798000" />
+    <option name="totallyTimeSpent" value="10214000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -229,8 +210,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18025751" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18025751" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -238,18 +220,18 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2922252" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.29758713" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37265417" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.32841823" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="14" weight="0.20241287" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.22654155" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -311,21 +293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LambdaX.Exercise3/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding>
-            <marker date="1554846168995" expanded="true" signature="6:67" ph="..." />
-            <marker date="1554846168995" expanded="true" signature="88:658" ph="{...}" />
-            <marker date="1554846168995" expanded="true" signature="108:656" ph="{...}" />
-            <marker date="1554846168995" expanded="true" signature="154:509" ph="{...}" />
-            <marker date="1554846168995" expanded="true" signature="321:497" ph="{...}" />
-            <marker date="1554846168995" expanded="true" signature="571:650" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LambdaX.Exercise2/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -348,6 +315,164 @@
             <marker date="1554843872709" expanded="true" signature="74:497" ph="{...}" />
             <marker date="1554843872709" expanded="true" signature="108:495" ph="{...}" />
             <marker date="1554843872709" expanded="true" signature="154:489" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/44E183AD-15AE-4AD5-A0BF-3739941FB803/7e/3517b9aa/Parallel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="141" column="37" selection-start-line="141" selection-start-column="37" selection-end-line="141" selection-end-column="37" />
+          <folding>
+            <marker date="1555107240925" expanded="true" signature="0:355" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1555107240925" expanded="false" signature="363:493" ph="..." />
+            <marker date="1555107240925" expanded="true" signature="527:59885" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="560:59883" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="760:839" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="928:5427" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="1377:1548" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="1628:1926" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="1986:5223" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="2142:4270" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="2282:3254" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="2470:3215" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="2698:3201" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="2734:2814" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="2851:3103" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="3285:3978" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="3512:3561" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="3578:3966" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="3718:3893" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="4283:5215" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="4924:4985" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="5025:5205" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="5237:5421" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="5542:5880" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="5998:6340" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="6494:6916" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="7073:7499" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="7633:7952" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="8089:8412" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="8585:8988" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="9164:9571" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="9792:10264" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="10488:10964" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="11224:11780" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="12043:12603" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="12669:12813" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="12876:12940" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="13292:20033" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="13410:13507" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="14241:14565" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="14391:14532" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="14799:15114" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="15124:19125" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="15144:18930" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="15351:18894" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="16055:18417" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="16322:16581" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="16459:16565" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="16720:16967" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="17015:17483" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="17256:17465" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="17504:17987" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="17745:17969" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="18051:18181" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="18450:18575" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="18595:18882" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="18946:19071" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="19161:19329" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="19343:19994" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="19674:19986" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="20392:27090" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="20510:20607" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="21327:21651" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="21477:21618" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="21885:22186" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="22196:26170" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="22216:25975" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="22423:25939" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="23117:25462" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="23384:23643" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="23521:23627" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="23782:24026" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="24074:24539" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="24312:24521" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="24560:25040" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="24798:25022" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="25104:25234" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="25495:25620" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="25640:25927" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="25991:26116" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="26206:26374" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="26388:27051" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="26712:27043" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="27209:27744" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="27902:28521" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="28659:29175" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="29352:29952" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="30096:30606" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="30789:31383" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="31608:32277" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="32541:33294" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="33525:34188" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="34458:35205" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="35728:36597" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="37108:38777" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="39292:40807" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="40926:41472" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="41610:42137" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="42290:42970" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="43195:43875" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="44115:44948" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="45106:45736" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="45913:46524" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="46716:47480" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="47744:48508" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="48787:49704" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="50244:58694" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="50691:50976" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="51365:51689" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="51515:51656" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="52077:52317" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="52328:52534" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="52544:57848" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="52564:57653" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="52772:57617" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="53111:57017" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="53449:53708" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="53586:53692" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="53821:55604" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="54007:54179" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="54356:55588" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="55432:55570" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="55623:57003" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="55769:55932" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="56219:56987" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="56831:56969" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="57050:57175" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="57195:57605" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="57669:57794" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="57884:58052" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="58066:58655" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="58845:59557" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="59166:59497" ph="{...}" />
+            <marker date="1555107240925" expanded="true" signature="59731:59879" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LambdaX.Exercise3/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <marker date="1555107782650" expanded="false" signature="6:67" ph="..." />
+            <marker date="1555107782650" expanded="true" signature="88:625" ph="{...}" />
+            <marker date="1555107782650" expanded="true" signature="108:623" ph="{...}" />
+            <marker date="1555107782650" expanded="true" signature="154:418" ph="{...}" />
+            <marker date="1555107782650" expanded="true" signature="321:405" ph="{...}" />
+            <marker date="1555107782650" expanded="true" signature="480:617" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -11,19 +11,18 @@ namespace Exercise3
             ParallelOptions options = new ParallelOptions();
             options.MaxDegreeOfParallelism = 10;
 
-            Parallel.For(0, 40, options, i =>
+            Parallel.For(1, 10, options, i =>
             {
-                Thread.Sleep(1 * 1000);
-                var rand = new Random().Next();
-
-                Console.WriteLine(HeavyComputation(rand));
+                Console.WriteLine(HeavyComputation(i));
             });
+
         }
 
         private static int HeavyComputation(int InputNumber)
         {
-            Thread.Sleep(3 * 1000);
-            return 42;
+            var rand = new Random().Next(10);
+            Thread.Sleep(rand * 1000);
+            return InputNumber;
         }
     }
 }
