@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/filipesousa/Desktop/LambdaX/LambdaX.Exercise1/LambdaX.Exercise1.csproj",
+    "projectUniqueName": "/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise1/LambdaX.Exercise1.csproj",
     "projectName": "LambdaX.Exercise1",
-    "projectPath": "/Users/filipesousa/Desktop/LambdaX/LambdaX.Exercise1/LambdaX.Exercise1.csproj",
-    "outputPath": "/Users/filipesousa/Desktop/LambdaX/LambdaX.Exercise1/obj/",
+    "projectPath": "/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise1/LambdaX.Exercise1.csproj",
+    "outputPath": "/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise1/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

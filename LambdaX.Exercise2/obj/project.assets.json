@@ -692,17 +692,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/filipesousa/Desktop/LambdaX/LambdaX.Exercise2/LambdaX.Exercise2.csproj",
+      "projectUniqueName": "/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise2/LambdaX.Exercise2.csproj",
       "projectName": "LambdaX.Exercise2",
-      "projectPath": "/Users/filipesousa/Desktop/LambdaX/LambdaX.Exercise2/LambdaX.Exercise2.csproj",
+      "projectPath": "/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise2/LambdaX.Exercise2.csproj",
       "packagesPath": "/Users/filipesousa/.nuget/packages/",
-      "outputPath": "/Users/filipesousa/Desktop/LambdaX/LambdaX.Exercise2/obj/",
+      "outputPath": "/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/filipesousa/.nuget/NuGet/NuGet.Config"
+        "/Users/filipesousa/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

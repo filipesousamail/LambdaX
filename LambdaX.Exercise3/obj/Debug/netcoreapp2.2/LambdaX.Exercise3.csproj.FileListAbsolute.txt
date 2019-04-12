@@ -9,3 +9,14 @@
 /Users/filipesousa/Desktop/LambdaX/LambdaX.Exercise3/bin/Debug/netcoreapp2.2/LambdaX.Exercise3.pdb
 /Users/filipesousa/Desktop/LambdaX/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.dll
 /Users/filipesousa/Desktop/LambdaX/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.pdb
+/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise3/bin/Debug/netcoreapp2.2/LambdaX.Exercise3.deps.json
+/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise3/bin/Debug/netcoreapp2.2/LambdaX.Exercise3.runtimeconfig.json
+/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise3/bin/Debug/netcoreapp2.2/LambdaX.Exercise3.runtimeconfig.dev.json
+/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise3/bin/Debug/netcoreapp2.2/LambdaX.Exercise3.dll
+/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise3/bin/Debug/netcoreapp2.2/LambdaX.Exercise3.pdb
+/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.csprojAssemblyReference.cache
+/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.csproj.CoreCompileInputs.cache
+/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.AssemblyInfoInputs.cache
+/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.AssemblyInfo.cs
+/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.dll
+/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise3/obj/Debug/netcoreapp2.2/LambdaX.Exercise3.pdb

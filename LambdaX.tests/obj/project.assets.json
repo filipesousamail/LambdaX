@@ -5877,17 +5877,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/LambdaX.tests.csproj",
+      "projectUniqueName": "/Users/filipesousa/Projects/LambdaX/LambdaX.tests/LambdaX.tests.csproj",
       "projectName": "LambdaX.tests",
-      "projectPath": "/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/LambdaX.tests.csproj",
+      "projectPath": "/Users/filipesousa/Projects/LambdaX/LambdaX.tests/LambdaX.tests.csproj",
       "packagesPath": "/Users/filipesousa/.nuget/packages/",
-      "outputPath": "/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/obj/",
+      "outputPath": "/Users/filipesousa/Projects/LambdaX/LambdaX.tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/filipesousa/.nuget/NuGet/NuGet.Config"
+        "/Users/filipesousa/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -5898,8 +5898,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/filipesousa/Desktop/LambdaX/LambdaX.Exercise1/LambdaX.Exercise1.csproj": {
-              "projectPath": "/Users/filipesousa/Desktop/LambdaX/LambdaX.Exercise1/LambdaX.Exercise1.csproj"
+            "/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise1/LambdaX.Exercise1.csproj": {
+              "projectPath": "/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise1/LambdaX.Exercise1.csproj"
             }
           }
         }

@@ -17,9 +17,6 @@ namespace LambdaX.Exercise2
         
         private static void DeleteNode(LinkedListNode node)
         {
-            if (node.Next is null)
-                node = null;
-            
             var temp = node.Next;  
             node.Value = temp.Value;  
             node.Next = temp.Next;

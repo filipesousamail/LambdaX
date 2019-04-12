@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/LambdaX.tests.csproj",
+    "projectUniqueName": "/Users/filipesousa/Projects/LambdaX/LambdaX.tests/LambdaX.tests.csproj",
     "projectName": "LambdaX.tests",
-    "projectPath": "/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/LambdaX.tests.csproj",
-    "outputPath": "/Users/filipesousa/Desktop/LambdaX/LambdaX.tests/obj/",
+    "projectPath": "/Users/filipesousa/Projects/LambdaX/LambdaX.tests/LambdaX.tests.csproj",
+    "outputPath": "/Users/filipesousa/Projects/LambdaX/LambdaX.tests/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
-          "/Users/filipesousa/Desktop/LambdaX/LambdaX.Exercise1/LambdaX.Exercise1.csproj": {
-            "projectPath": "/Users/filipesousa/Desktop/LambdaX/LambdaX.Exercise1/LambdaX.Exercise1.csproj"
+          "/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise1/LambdaX.Exercise1.csproj": {
+            "projectPath": "/Users/filipesousa/Projects/LambdaX/LambdaX.Exercise1/LambdaX.Exercise1.csproj"
           }
         }
       }
