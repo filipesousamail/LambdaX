@@ -212,6 +212,7 @@ project.lock.json\
 \
 # Rider\
 .idea/\
+.idea/
 \
 # Visual Studio Code\
 .vscode/\
@@ -229,3 +230,6 @@ project.lock.json\
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)\
 #####\
 }
+
+*.cache
+*Debug*
